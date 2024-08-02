@@ -1,6 +1,7 @@
 ## Hi there Anushrita here👋
 
-<!--
+<!--![image](https://github.com/user-attachments/assets/75fd0ee1-7cd8-45ee-bccb-33ed35303184)
+
 **seeker-Anushri/seeker-Anushri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
