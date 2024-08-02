@@ -1,5 +1,5 @@
 ## Hi there Anushrita here👋
-![image](https://github.com/user-attachments/assets/5dd6c546-3107-46d0-bc8f-e85864b02084)
+![dev](https://github.com/user-attachments/assets/3294069f-49bc-4b65-9299-1d056914af1e)
 
 
 <!--
